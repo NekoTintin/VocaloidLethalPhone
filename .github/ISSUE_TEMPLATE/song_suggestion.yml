@@ -29,7 +29,7 @@ body:
     id: song_link
     attributes:
       label: "Song Link"
-      description: "Provide a Youtube or Soundcloud link to the song.""
+      description: "Provide a Youtube or Soundcloud link to the song."
       placeholder: "Example: https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     validations:
       required: true
