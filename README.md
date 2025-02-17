@@ -1,5 +1,6 @@
-Add Vocaloid content for the LethalPhones mod, featuring 9 ringtones:
+Add Vocaloid content for the LethalPhones mod:
 
+# Ringtones
 - [The World is Mine](https://www.youtube.com/watch?v=EuJ6UR_pD5s) (ryo/supercell)
 - [M@gical Cure! Love Shot](https://www.youtube.com/watch?v=LaEgpNBt-bQ) (Sawtowne)
 - [Miku](https://www.youtube.com/watch?v=NocXEwsJGOQ) (Anamanaguchi)
@@ -9,7 +10,8 @@ Add Vocaloid content for the LethalPhones mod, featuring 9 ringtones:
 - [Rabbit Hole](https://www.youtube.com/watch?v=eSW2LVbPThw) (DECO*27)
 - [Monitoring](https://www.youtube.com/watch?v=kbNdx0yqbZE) (DECO*27)
 - [BRING IT ON](https://www.youtube.com/watch?v=oEkGC2HV7rc) (Giga)
+- [I GOT YOU](https://www.youtube.com/watch?v=Dq2HJl5vKbY) (Giga)
 
-[NEW !] You can make song requests from the GitHub repository. (Create new issue using the label ```song suggestion```)
+[NEW !] You can make song requests from the GitHub repository. (Create new issue using the template ```song suggestion```)
 
 P.S.: I also plan to make skins and charms once I fix my issue with Vulkan.

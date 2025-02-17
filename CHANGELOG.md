@@ -1,3 +1,7 @@
+[1.2.0]
+- Added I got you.
+- Created a GitHub repository to request songs.
+
 [1.1.0]
 - Added Rabbit Hole, Monitoring and Bring it on.
 
