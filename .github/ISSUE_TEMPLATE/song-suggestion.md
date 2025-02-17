@@ -1,15 +1,36 @@
----
-name: Song Suggestion
-about: Suggest a new song to add.
-title: ''
-labels: song suggestion
-assignees: ''
+name: "Song Suggestion"
+description: "Suggest a new song to add."
+labels: ["song suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        🎵 **Before submitting, please check existing suggestions to avoid duplicates!** 🎵
 
----
+  - type: input
+    id: song_name
+    attributes:
+      label: "Song Name"
+      description: "Enter the name of the song."
+      placeholder: "Example: Miku"
+    validations:
+      required: true
 
-**Before submitting, please check existing suggestions to avoid duplicates!**
+  - type: input
+    id: artist
+    attributes:
+      label: "Artist"
+      description: "Who made the song?"
+      placeholder: "Example: Anamanaguchi"
+    validations:
+      required: true
 
-Please provide:
-- Song name (japanese or english name)
-- Artist
-- Link to Youtube or Soundcloud
+  - type: input
+    id: song_link
+    attributes:
+      label: "Song Link"
+      description: "Provide a Youtube or Soundcloud link to the song.'
+      placeholder: "Example: https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    validations:
+      required: true
+
