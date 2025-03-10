@@ -9,9 +9,13 @@ Add Vocaloid content for the LethalPhones mod:
 - [Mesmerizer](https://www.youtube.com/watch?v=19y8YTbvri8) (サツキ)
 - [Rabbit Hole](https://www.youtube.com/watch?v=eSW2LVbPThw) (DECO*27)
 - [Monitoring](https://www.youtube.com/watch?v=kbNdx0yqbZE) (DECO*27)
+- [Telepathy](https://www.youtube.com/watch?v=c56TpxfO9q0) (DECO*27)
 - [BRING IT ON](https://www.youtube.com/watch?v=oEkGC2HV7rc) (Giga)
 - [I GOT YOU](https://www.youtube.com/watch?v=Dq2HJl5vKbY) (Giga)
 
-[NEW !] You can make song requests from the GitHub repository. (Create new issue using the template ```song suggestion```)
+# Skins
+- Hatsune Miku
 
-P.S.: I also plan to make skins and charms once I fix my issue with Vulkan.
+	<img src=".images\Miku_Skin_screenshot.png" alt="Image Exemple" width="122" height="203">
+
+You can make song requests from the GitHub repository. (Create new issue using the template ```song suggestion```)

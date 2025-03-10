@@ -1,3 +1,8 @@
+[2.0.0]
+- Added Hatsune Miku skin.
+- Added Telepathy from Deco*27.
+- Updated dependencies
+
 [1.2.0]
 - Added I got you.
 - Created a GitHub repository to request songs.

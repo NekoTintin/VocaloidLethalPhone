@@ -1,9 +1,9 @@
 {
     "name": "VocaloidLethalPhone",
     "description": "Add Vocaloid content for the LethalPhones mod",
-    "version_number": "1.2.0",
+    "version_number": "2.0.0",
     "dependencies": [
-        "Scoops-LethalPhones-1.3.7"
+        "Scoops-LethalPhones-1.3.13"
     ],
     "website_url": "https://github.com/NekoTintin/VocaloidLethalPhone"
 }
