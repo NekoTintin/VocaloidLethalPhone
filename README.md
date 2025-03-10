@@ -16,6 +16,6 @@ Add Vocaloid content for the LethalPhones mod:
 # Skins
 - Hatsune Miku
 
-	<img src=".images\Miku_Skin_screenshot.png" alt="Image Exemple" width="122" height="203">
+	<img src="https://raw.githubusercontent.com/NekoTintin/VocaloidLethalPhone/refs/heads/main/.images/Miku_Skin_screenshot.png" alt="Image Exemple" width="122" height="203">
 
 You can make song requests from the GitHub repository. (Create new issue using the template ```song suggestion```)

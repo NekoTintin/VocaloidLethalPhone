@@ -1,3 +1,6 @@
+[2.0.1]
+- Updated Markdown
+
 [2.0.0]
 - Added Hatsune Miku skin.
 - Added Telepathy from Deco*27.
