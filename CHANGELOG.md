@@ -1,3 +1,8 @@
+[2.1.0]
+- Added Lemon Melon Cookie from Tak.
+- Added Salamander from Deco*27.
+- Updated dependencies
+
 [2.0.1]
 - Updated Markdown
 
